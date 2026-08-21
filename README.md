@@ -51,5 +51,5 @@ Plataforma descentralizada y escalable de conversión de archivos y generación 
 ---
 
 ### 🤝 Conectemos
-- [LinkedIn](www.linkedin.com/in/sebastian-rivera-a9b10430a)
+- [LinkedIn](https://www.linkedin.com/in/sebastian-rivera-a9b10430a/)
 - [Portafolio / Correo](mailto:sebastianriveraaviles4@gmail.com)
