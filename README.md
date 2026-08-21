@@ -33,7 +33,7 @@ Estudiante de 9.° semestre de Ingeniería de Software enfocado en conectar la i
 
 ### 🛠️ Proyecto Destacado
 
-#### 📂 [MultiToolConvert](https://github.com)
+#### 📂 [MultiToolConvert](https://github.com/Sebas5158R/MultiToolConvert)
 Plataforma descentralizada y escalable de conversión de archivos y generación de códigos QR construida sobre una arquitectura de microservicios distribuidos.
 *   **Backend Concurrente:** Implementado en **Go** para optimizar el rendimiento y la alta concurrencia en la transferencia de archivos.
 *   **Pipeline de Datos & ML:** Microservicio especializado en **Python** para la ejecución de algoritmos y procesamiento estructurado.
@@ -51,5 +51,5 @@ Plataforma descentralizada y escalable de conversión de archivos y generación 
 ---
 
 ### 🤝 Conectemos
-- [LinkedIn](https://linkedin.com)
+- [LinkedIn](www.linkedin.com/in/sebastian-rivera-a9b10430a)
 - [Portafolio / Correo](mailto:sebastianriveraaviles4@gmail.com)
