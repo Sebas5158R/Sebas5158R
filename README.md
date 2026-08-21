@@ -19,7 +19,6 @@ Estudiante de 9.° semestre de Ingeniería de Software enfocado en conectar la i
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55" height="55" /> |
 
 </div>
----
 
 ### 🛠️ Proyecto Destacado
 
@@ -28,6 +27,8 @@ Plataforma descentralizada y escalable de conversión de archivos y generación 
 *   **Backend Concurrente:** Implementado en **Go** para optimizar el rendimiento y la alta concurrencia en la transferencia de archivos.
 *   **Pipeline de Datos & ML:** Microservicio especializado en **Python** para la ejecución de algoritmos y procesamiento estructurado.
 *   **Infraestructura:** Todo el ecosistema se encuentra completamente contenerizado mediante **Docker** para asegurar despliegues ágiles, independientes y reproducibles.
+
+<img width="1108" height="941" alt="image" src="https://github.com/user-attachments/assets/882f2a22-4f85-4088-b4c9-134be92667d4" />
 
 ---
 
