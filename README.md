@@ -20,7 +20,7 @@ Estudiante de 9.° semestre de Ingeniería de Software enfocado en conectar la i
 
 </div>
 
-### 🛠️ Proyecto Destacado
+### 🛠️ Proyecto Destacado (Privado)
 
 #### 📂 [MultiToolConvert](https://github.com/Sebas5158R/MultiToolConvert)
 Plataforma descentralizada y escalable de conversión de archivos y generación de códigos QR construida sobre una arquitectura de microservicios distribuidos.
