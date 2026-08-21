@@ -9,26 +9,16 @@ Estudiante de 9.° semestre de Ingeniería de Software enfocado en conectar la i
 ---
 
 ### 🚀 Stack Tecnológico
+<div align="center">
+  
+| Backend & Core | Bases de Datos & Cloud | Frontend & Herramientas |
+| :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" height="55" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="55" height="55" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="55" height="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="55" height="55" /> |
 
-**Backend & Core**
-![Java](https://shields.io)
-![Spring](https://shields.io)
-![Go](https://shields.io)
-![Python](https://shields.io)
-![NodeJS](https://shields.io)
-
-**Bases de Datos & Cloud**
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-![AWS](https://shields.io)
-![Docker](https://shields.io)
-
-**Frontend & Herramientas**
-![React](https://shields.io)
-![Linux](https://shields.io)
-![Git](https://shields.io)
-![Postman](https://shields.io)
-
+</div>
 ---
 
 ### 🛠️ Proyecto Destacado
