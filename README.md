@@ -20,6 +20,16 @@ Estudiante de 9.° semestre de Ingeniería de Software enfocado en conectar la i
 
 </div>
 
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sebas5158R&theme=transparent" alt="Estadísticas de Sebastian" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sebas5158R&theme=transparent&exclude=kotlin,astro" alt="Lenguajes más usados" width="48%" />
+</p>
+
+---
+
 ### 🛠️ Proyecto Destacado (Privado)
 
 #### 📂 [MultiToolConvert](https://github.com/Sebas5158R/MultiToolConvert)
@@ -30,16 +40,6 @@ Plataforma descentralizada y escalable de conversión de archivos y generación 
 
 <img width="1108" height="941" alt="image" src="https://github.com/user-attachments/assets/882f2a22-4f85-4088-b4c9-134be92667d4" />
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de Sebastian" width="48%" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%" />
-</p>
-
----
 
 ### 🤝 Conectemos
 - [LinkedIn](https://www.linkedin.com/in/sebastian-rivera-a9b10430a/)
