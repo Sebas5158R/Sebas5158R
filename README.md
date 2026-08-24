@@ -24,8 +24,8 @@ Estudiante de 9.° semestre de Ingeniería de Software enfocado en conectar la i
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sebas5158R&theme=transparent" alt="Estadísticas de Sebastian" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sebas5158R&theme=transparent&exclude=kotlin,astro" alt="Lenguajes más usados" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sebas5158R&theme=tokyonight" alt="Estadísticas de Sebastian" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sebas5158R&theme=tokyonight&exclude=kotlin,astro" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
